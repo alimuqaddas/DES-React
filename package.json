@@ -36,5 +36,5 @@
     "prettier": "^1.6.1",
     "redux-devtools-extension": "^2.13.2"
   },
-  "proxy": ""
+  "proxy":"http://192.168.10.8:4000"
 }
